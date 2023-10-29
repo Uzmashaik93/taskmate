@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TaskMate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Daily Task Manager, your personal assistant for staying organized, productive, and in control of your daily activities. TaskMate is a web application that allows users to create and manage tasks.
 
 ## Available Scripts
 
